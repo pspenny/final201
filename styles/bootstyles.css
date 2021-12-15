@@ -1,0 +1,109 @@
+
+.common{
+    background-color: whitesmoke;
+    border: solid rgb(143, 55, 23);
+    color: darkslategray;
+    position: absolute;
+}
+.header{
+    top: 35px;
+    left: 8px;
+    right: 8px;
+    height: 250px;
+}
+.left{
+    top: 300px;
+    left: 8px;
+    height: 225px;
+    width: 290px;
+}
+.main{
+    top: 300px;
+    right: 8px;
+    left: 315px;
+    height: 2200px;
+    overflow: auto;
+}
+.footer{
+    top: 2535px;
+    left: 8px;
+    right: 8px;
+    bottom: 35px;
+    height: 175px;
+}
+body{
+    background-image: url('Images/white.jpg');
+    background-size: 100% 100%;
+    background-color: rgb(236, 236, 236);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    color: darkslategray
+    
+
+}
+li{
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(143, 55, 23);
+    
+}
+
+a:hover{
+    text-decoration: underline;
+}
+.bold{
+    font-weight: bold;
+    font-size: 16px;
+    font-style: normal;
+}
+.bold2{
+    font-weight: normal;
+    font-size: 20px;
+    font-style: normal;
+}
+.justify{text-align: justify;
+}
+.center{text-align: center;
+}
+.right{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+.italic{
+    font-style: italic;
+}
+.tabbg {
+    position: relative;
+    margin-bottom: 3rem;
+    padding-top: calc(8rem + 57px);
+    padding-bottom: 8rem;
+    background: no-repeat center center;
+    background-color: #6c757d;
+    background-size: cover;
+    background-attachment: scroll;
+  }
+.title{
+    font-size: 60px;
+    font-weight: bold;
+    color: darkslategray;
+}
+.subtitle2{
+font-size: 40px;
+font-weight: bold;
+color: darkslategray;
+}
+.subtitle{
+    font-size: x-large;
+}
+.smalltitle{
+    font-weight: bold;
+    font-size: 16px;
+    font-style: normal
+}

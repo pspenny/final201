@@ -1,0 +1,30 @@
+.smalltitle{
+    font-size: 1.50rem;
+    font-weight: 700;
+    margin-top: 1.25rem;
+  }
+  .italic{
+    font-style: italic;
+  }
+  .justify{
+    text-align: center;
+  }
+  .bold{
+      font-weight: bold;
+  }
+  .navy{
+      color: rgb(10, 10, 61);
+  }
+  .navy:hover{
+      color: #0085A1;
+  }
+  .change{
+    font-weight: 300;
+    margin-bottom: 0.625rem;
+    font-style: italic;
+    color: rgb(10, 10, 61);
+  }
+  .mainheader{
+      font-size: x-large;
+      color: white
+  }
